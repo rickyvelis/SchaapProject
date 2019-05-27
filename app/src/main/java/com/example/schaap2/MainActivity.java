@@ -83,8 +83,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-        sendButton.setVisibility(View.GONE);
-        serialEdit.setVisibility(View.GONE);
+/*        sendButton.setVisibility(View.GONE);
+        serialEdit.setVisibility(View.GONE);*/
     }
 
     @Override
