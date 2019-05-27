@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Schaap</string>
+    <string name="device_number">Device Nr:</string>
+    <string name="device_name">Name:</string>
+    <string name="device_number_value">xxxxx xxxxx</string>
+    <string name="device_status">Status:</string>
+    <string name="device_name_value">Kareltje</string>
+    <string name="device_status_value">s\'all good man</string>
+</resources>
